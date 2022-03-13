@@ -13,7 +13,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Let's build a cart here using react hooks
         </a>
       </header>
     </div>
